@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Rama Nicholson\\Downloads\\gson-2.8.6.jar"
+    ]
+}
